@@ -1,0 +1,21 @@
+#titolo{
+    text-align: center;
+    color: rgb(152, 15, 194);
+}
+
+
+#map{
+    height: 300px;
+}
+
+#titoloDiv{
+    background-color: chartreuse;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+#rowIn{
+    border: solid 5px greenyellow;
+}
